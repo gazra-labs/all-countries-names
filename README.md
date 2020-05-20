@@ -1,4 +1,4 @@
-# all-countries-names
+# All Countries Names
 All countries names with ISO2, ISO3 and Alternative Names
 
 ### Credit
